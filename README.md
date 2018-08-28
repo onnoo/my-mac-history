@@ -8,5 +8,6 @@
 |             | Install Melon                  |     |
 |             | Update git 2.18.0              |     |
 |             | Install Sourcetree             |     |
+|             | Create SSH key                 |     |
 |             | Install Sublime text3          |     |
 |             | Install IntelliJ IDEA CE       |     |
