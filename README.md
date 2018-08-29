@@ -11,3 +11,9 @@
 |             | Create SSH key                 |     |
 |             | Install Sublime text3          |     |
 |             | Install IntelliJ IDEA CE       |     |
+| 28/08/2018  | Install GoogleDrive            |     |
+| 29/08/2018  | Install Send Anywhere          |     |
+|             | Install Nodejs                 |     |
+|             | Uninstall IntelliJ IDEA CE     |     |
+|             | Install IntelliJ IDEA Unti     |     |
+|             | Install WebStorm               |     |
